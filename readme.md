@@ -34,6 +34,9 @@ Crie um arquivo .env com as variáveis necessárias.
 Abra o navegador e vá para http://127.0.0.1:5000 para acessar a interface web.
 Seguindo esses passos, você estará pronto para utilizar a automação para a atualização da versão da API.
 
+**Fluxo**
+![diagram](./img/diagram.png)
+
 ## Estrutura de pastas e arquivos do Projeto
    ```sh
    .
@@ -46,7 +49,3 @@ Seguindo esses passos, você estará pronto para utilizar a automação para a a
 │   └── update_binaries.sh
 ├── templates/            # Diretório contendo os templates HTML
 │   └── index.html
-
-
-**Fluxo**
-![diagram](./img/diagram.png)
