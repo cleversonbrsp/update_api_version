@@ -7,4 +7,3 @@
 5. Registrar histórico de versões.
 
 ![diagram](./img/diagram.png)
-
