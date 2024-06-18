@@ -17,5 +17,4 @@ Essa automação, escrita em Python utilizando o framework Flask, trata de um si
    ```sh
    pip install flask python-dotenv
 
-
 ![diagram](./img/diagram.png)
