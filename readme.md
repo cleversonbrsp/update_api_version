@@ -4,7 +4,7 @@ Essa automação, escrita em Python utilizando o framework Flask, trata de um si
 
 ## Pré-requisitos
 
-1. **Sistema Operacional:** Deve ser executado em um sistema operacional compatível com Python e Flask, como Linux, macOS ou Windows.
+1. **Sistema Operacional:** Deve ser executado em um sistema operacional compatível com Python e Flask, como Linux, macOS ou Windows e com acesso ao banco.
 
 2. **Python:** Certifique-se de ter o Python 3.x instalado. Você pode verificar isso executando `python3 --version` no terminal.
 
